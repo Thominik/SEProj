@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Nikon Z 50 Body",
+        "Details": "Dolor aliquip velit amet aliqua minim labore sit laboris non aliquip cillum.",
+        "Price": "50 zł za wypożyczenie",
+        "Photos": [
+            {
+                "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2019/10/pr_2019_10_16_13_21_42_915_00.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "Name": "Canon EOS M50 II M15-45mm",
+        "Details": "Dolor aliquip velit amet aliqua minim labore sit laboris non aliquip cillum.",
+        "Price": "90 zł za wypożyczenie",
+        "Photos": [
+            {
+                "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/6/pr_2021_6_29_14_12_22_978_03.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "Name": "Canon EOS 2000D body",
+        "Details": "Dolor aliquip velit amet aliqua minim labore sit laboris non aliquip cillum.",
+        "Price": "3450 zł za wypożyczenie",
+        "Photos": [
+            {
+                "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2022/4/pr_2022_4_20_9_28_43_599_00.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "Name": "Fujifilm Instax Mini Evo",
+        "Details": "Dolor aliquip velit amet aliqua minim labore sit laboris non aliquip cillum.",
+        "Price": "530 zł za wypożyczenie",
+        "Photos": [
+            {
+                "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2022/1/pr_2022_1_31_12_51_46_783_05.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "Name": "Fujifilm Instax Mini 11",
+        "Details": "Dolor aliquip velit amet aliqua minim labore sit laboris non aliquip cillum.",
+        "Price": "520 zł za wypożyczenie",
+        "Photos": [
+            {
+                "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2020/3/pr_2020_3_26_11_47_31_341_01.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "Name": "NSony Alpha a7 IV + FE 28 – 70 mm",
+        "Details": "Dolor aliquip velit amet aliqua minim labore sit laboris non aliquip cillum.",
+        "Price": "150 zł za wypożyczenie",
+        "Photos": [
+            {
+                "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2022/1/pr_2022_1_27_12_10_7_983_03.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "Name": "Kodak FZ101",
+        "Details": "Dolor aliquip velit amet aliqua minim labore sit laboris non aliquip cillum.",
+        "Price": "5550 zł za wypożyczenie",
+        "Photos": [
+            {
+                "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2017/11/pr_2017_11_7_9_51_50_712_03.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "Name": "Sony Alpha a7 IV body",
+        "Details": "Dolor aliquip velit amet aliqua minim labore sit laboris non aliquip cillum.",
+        "Price": "230 zł za wypożyczenie",
+        "Photos": [
+            {
+                "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2022/1/pr_2022_1_26_14_30_34_32_00.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "Name": "Cullmann Sydney pro Maxima 120",
+        "Details": "Dolor aliquip velit amet aliqua minim labore sit laboris non aliquip cillum.",
+        "Price": "990 zł za wypożyczenie",
+        "Photos": [
+            {
+                "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2019/1/pr_2019_1_15_12_29_28_975_00.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "Name": "Canon EOS M50 Mark II + EF-M 15-45mm",
+        "Details": "Dolor aliquip velit amet aliqua minim labore sit laboris non aliquip cillum.",
+        "Price": "765 zł za wypożyczenie",
+        "Photos": [
+            {
+                "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2022/1/pr_2022_1_20_14_10_25_493_00.jpg",
+                "IsMain": true
+            }
+        ]
+    }
+] 
